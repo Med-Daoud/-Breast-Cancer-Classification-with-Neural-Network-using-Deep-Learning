@@ -1,4 +1,4 @@
-﻿#Project Overview
+﻿Project Overview
 
 Breast cancer is one of the most common cancers worldwide. Early detection is critical for effective treatment. This project uses a feedforward neural network to classify tumors as Malignant or Benign based on tumor features.
 
@@ -19,3 +19,4 @@ The model predicts the tumor type for new patient data.
 Evaluation
 
 Assessing model performance using metrics and visualizations.
+
